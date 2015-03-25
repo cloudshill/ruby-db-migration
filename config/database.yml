@@ -1,6 +1,6 @@
 temp: &temp
-  username: username
-  password: password
+  username: postgres
+  password: postgres
   adapter: postgresql
   host: localhost
   port: 5432
